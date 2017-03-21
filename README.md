@@ -2,6 +2,7 @@
 migrate slots manually on redis cluster
 
 sh manual-reshard.sh -h
+
 USAGE:
         migrate slot from src node to dest node
 OPTION:
