@@ -5,6 +5,7 @@ sh manual-reshard.sh -h
 
 USAGE:
         migrate slot from src node to dest node
+
 OPTION:
 
         -s src_server
